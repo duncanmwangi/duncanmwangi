@@ -37,19 +37,6 @@ I'm a passionate Laravel developer focused on building robust, secure, and scala
 
 ---
 
-### 🌟 Featured Projects
-
-- **[Laravel API Starter Kit](https://github.com/duncanmwangi/laravel-api-starter)**  
-  RESTful API boilerplate with Sanctum auth, Redis caching, and TDD setup.
-
-- **[Vue 3 + Laravel Portfolio Site](https://github.com/duncanmwangi/portfolio-site)**  
-  Full-stack freelancer website with a contact form storing to DB + email notifications.
-
-- **[Vue3 Admin Panel Template](https://github.com/duncanmwangi/vue3-admin-template)**  
-  A Vue 3 dashboard starter with Laravel backend and Docker setup for rapid dev.
-
----
-
 ### 📫 Connect With Me
 
 - **Toptal Resume**: [toptal.com/resume/duncan-irungu-mwangi](https://www.toptal.com/resume/duncan-irungu-mwangi)
